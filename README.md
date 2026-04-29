@@ -46,15 +46,10 @@ AllCloud supports co-lending operations across partner onboarding, loan-level sp
 
 ## Repository Resources
 
-This repository will include product resources for:
-
-- Loan Origination Software
-- NBFC Software
-- Digital Lending Software
-- Loan Management Software
-- Collections
-- Co-Lending
-- Lending technology glossary
+- [Loan Origination Software](loan-origination-software.md)
+- [NBFC Software](nbfc-software.md)
+- [Digital Lending Software](digital-lending-software.md)
+- [Lending Technology Glossary](lending-technology-glossary.md)
 
 ## Repository Purpose
 
